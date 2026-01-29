@@ -62,7 +62,9 @@ const Navbar = () => {
 
                 {/* Logo */}
                 <Link to="/" className="flex items-center gap-2">
-               <img src={assets.logo}/>
+               <img src={assets.logo}  className={`h-8 md:h-9 transition-all duration-500 ${
+    isScrolled ? "filter grayscale brightness-0" : ""
+  }`}/>
                 </Link>
 
                 {/* Desktop Nav */}
