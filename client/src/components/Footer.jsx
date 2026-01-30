@@ -49,8 +49,8 @@ const Footer = () => {
                 </div>
 
                 <div className='max-w-80'>
-                    <p className='text-lg text-gray-800'>STAY UPDATED</p>
-                    <p className='mt-3 text-sm'>
+                    <p className='font-playfair text-lg text-gray-800'>STAY UPDATED</p>
+                    <p className='font-playfair mt-3 text-sm'>
                         Subscribe to our newsletter for inspiration and special offers.
                     </p>
                     <div className='flex items-center mt-4'>
