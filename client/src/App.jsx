@@ -6,11 +6,11 @@ import Footer from './components/Footer'
 import AllRooms from "./pages/AllRooms"
 import RoomDetails from './pages/RoomDetails'
 import MyBookings from './pages/MyBookings'
-import HotelReg from './components/Hotelreg'
 import Layout from './pages/HotelOwner/Layout'
 import Dashboard from './pages/HotelOwner/Dashboard'
 import AddRoom from './pages/HotelOwner/AddRoom'
 import ListRoom from './pages/HotelOwner/ListRoom'
+import HotelReg from './components/HotelReg'
 
 const App = () => {
 
